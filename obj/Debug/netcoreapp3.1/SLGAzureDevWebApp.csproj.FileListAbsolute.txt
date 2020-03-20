@@ -33,3 +33,4 @@ C:\Users\mimran\source\repos\SLGAppDevDay\SLGAzureDevWebApp\obj\Debug\netcoreapp
 C:\Users\mimran\source\repos\SLGAppDevDay\SLGAzureDevWebApp\obj\Debug\netcoreapp3.1\SLGAzureDevWebApp.dll
 C:\Users\mimran\source\repos\SLGAppDevDay\SLGAzureDevWebApp\obj\Debug\netcoreapp3.1\SLGAzureDevWebApp.pdb
 C:\Users\mimran\source\repos\SLGAppDevDay\SLGAzureDevWebApp\obj\Debug\netcoreapp3.1\SLGAzureDevWebApp.csproj.CopyComplete
+C:\Users\mimran\source\repos\SLGAppDevDay\SLGAzureDevWebApp\obj\Debug\netcoreapp3.1\SLGAzureDevWebApp.genruntimeconfig.cache
