@@ -1,0 +1,2 @@
+C:\Users\mimran\source\repos\SLGAppDevDay\SLGAzureDevWebApp\obj\Debug\netcoreapp2.2\SLGAzureDevWebApp.AssemblyInfoInputs.cache
+C:\Users\mimran\source\repos\SLGAppDevDay\SLGAzureDevWebApp\obj\Debug\netcoreapp2.2\SLGAzureDevWebApp.AssemblyInfo.cs
