@@ -109,3 +109,7 @@ C:\Users\mimran\source\repos\SLGAppDevDay\SLGAzureDevWebApp\bin\Debug\netcoreapp
 C:\Users\mimran\source\repos\SLGAppDevDay\SLGAzureDevWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\mimran\source\repos\SLGAppDevDay\SLGAzureDevWebApp\obj\Debug\netcoreapp3.1\SLGAzureDevWebApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mimran\source\repos\SLGAppDevDay\SLGAzureDevWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Tutorials.cshtml.g.cs
+C:\Users\mimran\source\repos\SLGAppDevDay\SLGAzureDevWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Learn.cshtml.g.cs
+C:\Users\mimran\source\repos\SLGAppDevDay\SLGAzureDevWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Modernization.cshtml.g.cs
+C:\Users\mimran\source\repos\SLGAppDevDay\SLGAzureDevWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\COVID19.cshtml.g.cs
+C:\Users\mimran\source\repos\SLGAppDevDay\SLGAzureDevWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Demos.cshtml.g.cs
